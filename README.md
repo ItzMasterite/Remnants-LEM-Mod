@@ -1,7 +1,8 @@
-# Example LEM Mod
+Remnants-LEM-Mod
 
-Example LEM-ModTools repository, it has a example map inside it as well if you want to just test out the compiler
+**This map is designed to only be used for the LEM Battle server.** 
 
-If you're actually making a map, you should replace the example map with yours
+Map description. "Forgotten remnants of this console edition structure lie deep in the center of these highland mountains, making this last piece of the tutorial world just forgotten ruins. Yet this is a perfect place for a battle to start."
+![Screenshot 2025-06-21 123031](https://github.com/user-attachments/assets/6fbc5934-4a40-406c-8a94-df25eb494908)
 
-For information on how to actually use this repository, please see the [LEM-ModTools documentation](https://github.com/Legacy-Edition-Minigames/ModTools/wiki)
+Note: This map only has a Large+ variant. It is likely this map will just have one variant.
