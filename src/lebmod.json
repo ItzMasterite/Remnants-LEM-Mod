@@ -1,0 +1,17 @@
+{
+    "name": "Remnants",
+    "description": "Deep inside the mountains, remnants of the aquatic tutorial world lie to ruin. Will you overcome this hazardous enviornment and claim victory?",
+    "authors": "ItsMasteritz",
+    "version": "1",
+    "id": "remnants",
+    "type": "map",
+    "pack": "vanilla",
+    "hassmall": false,
+    "haslarge": false,
+    "haslargeplus": true,
+    "hasremastered": false,
+    "centercoords_small": "0 0 0",
+    "centercoords_large": "0 0 0",
+    "centercoords_largeplus": "7.5 80 -148.50",
+    "centercoords_remastered": "0 0 0"
+}
