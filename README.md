@@ -3,6 +3,7 @@ Remnants-LEM-Mod
 **This map is designed to be used for the LEM Battle server.** 
 
 Map description. "Deep inside the mountains, remnants of the aquatic tutorial world lie to ruin. Will you overcome this hazardous enviornment and claim victory?"
+This image needs to be updated
 ![Screenshot 2025-06-21 123031](https://github.com/user-attachments/assets/6fbc5934-4a40-406c-8a94-df25eb494908)
 
 Note: 
